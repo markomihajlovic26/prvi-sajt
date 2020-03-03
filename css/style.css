@@ -668,6 +668,7 @@ body .naslov .linija {
   }
   #slike img {
     margin-top: 30px;
+    width: 80%;
   }
   #projects img {
     margin-left: 0;
