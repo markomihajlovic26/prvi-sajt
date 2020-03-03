@@ -240,6 +240,7 @@ body{
          #slike{
              width: 90%;
              margin: 0 auto;
+             
          }
     img{
         width: 45%;
@@ -511,6 +512,12 @@ body{
             margin-top: 30px;
         }
     }
+    #projects{
+        img{
+            margin-left: 0;
+            
+        }
+    }
 
     #contact{
         #gornjiDeoForme{
@@ -539,6 +546,7 @@ body{
             display: flex;
             justify-content: center;
         }
+
         #aboutTekst{
             width: 100%;
             h3{
@@ -565,8 +573,6 @@ body{
             h1{
                 a{
                   font-size: 10px;
-               
-                
                  }
               }
 

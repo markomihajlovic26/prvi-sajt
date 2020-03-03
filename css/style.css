@@ -74,7 +74,7 @@ body .naslov .linija {
           transform: translateX(25px);
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  color: #ededed;;
+  color: #ededed;
 }
 
 #header h1 {
@@ -84,8 +84,8 @@ body .naslov .linija {
 
 #header a {
   text-decoration: none;
-  color: #a2a8a3;
-  font-size:25px;
+  color: black;
+  font-size: 25px;
 }
 
 #header #nav ul {
@@ -138,7 +138,7 @@ body .naslov .linija {
   width: 30px;
   height: 4px;
   margin-top: 4px;
-  background-color:#a2a8a3;
+  background-color: #fff;
 }
 
 #header #mobilnaNavigacija nav ul {
@@ -161,7 +161,7 @@ body .naslov .linija {
 }
 
 #header #mobilnaNavigacija nav ul li:hover a {
-  color:#ededed;;
+  color: #000;
   text-decoration: underline;
 }
 
@@ -669,6 +669,9 @@ body .naslov .linija {
   #slike img {
     margin-top: 30px;
   }
+  #projects img {
+    margin-left: 0;
+  }
   #contact #gornjiDeoForme {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -726,12 +729,10 @@ body .naslov .linija {
 
 @media only screen and (max-width: 525px) {
   #header #logo h1 a {
-    font-size: 11px;
-    margin-left: 15px;
-    padding: 0px;
+    font-size: 10px;
   }
-      #home #text h1 {
-    font-size: 15px;
+  #home #text h1 {
+    font-size: 30px;
   }
 }
 /*# sourceMappingURL=style.css.map */
