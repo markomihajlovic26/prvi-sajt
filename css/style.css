@@ -726,10 +726,12 @@ body .naslov .linija {
 
 @media only screen and (max-width: 525px) {
   #header #logo h1 a {
-    font-size: 10px;
+    font-size: 11px;
+    margin-left: 15px;
+    padding: 0px;
   }
-  #home #text h1 {
-    font-size: 30px;
+      #home #text h1 {
+    font-size: 25px;
   }
 }
 /*# sourceMappingURL=style.css.map */
