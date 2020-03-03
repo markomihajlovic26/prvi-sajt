@@ -74,7 +74,7 @@ body .naslov .linija {
           transform: translateX(25px);
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  color: #ededed;
+  color: #ededed;;
 }
 
 #header h1 {
@@ -84,8 +84,8 @@ body .naslov .linija {
 
 #header a {
   text-decoration: none;
-  color: black;
-  font-size: 25px;
+  color: #a2a8a3;
+  font-size:25px;
 }
 
 #header #nav ul {
@@ -138,7 +138,7 @@ body .naslov .linija {
   width: 30px;
   height: 4px;
   margin-top: 4px;
-  background-color: #fff;
+  background-color:#a2a8a3;
 }
 
 #header #mobilnaNavigacija nav ul {
@@ -161,7 +161,7 @@ body .naslov .linija {
 }
 
 #header #mobilnaNavigacija nav ul li:hover a {
-  color: #000;
+  color:#ededed;;
   text-decoration: underline;
 }
 
@@ -731,7 +731,7 @@ body .naslov .linija {
     padding: 0px;
   }
       #home #text h1 {
-    font-size: 25px;
+    font-size: 15px;
   }
 }
 /*# sourceMappingURL=style.css.map */
