@@ -733,6 +733,7 @@ body .naslov .linija {
     font-size: 10px;
     padding: 0px;
     margin-left: 5px;
+    text-align: center;
   }
   #home #text h1 {
     font-size: 30px;
